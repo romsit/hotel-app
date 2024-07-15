@@ -1,5 +1,5 @@
 export interface Reservation {
-    ud: string,
+    id: string,
     checkInDate: Date,
     checkOutDate: Date,
     guestName: string,
